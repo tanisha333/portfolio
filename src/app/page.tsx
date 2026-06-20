@@ -383,6 +383,22 @@ export default function Home() {
     }}
   />
 </section>
+<section
+  style={{
+    backgroundColor: "#FFE98A",
+    padding: "0 80px 120px",
+  }}
+>
+  <img
+    src="/Seafoam Siren.png"
+    alt="The Seafoam Siren"
+    style={{
+      width: "100%",
+      display: "block",
+      borderRadius: "20px",
+    }}
+  />
+</section>
     </>
   );
 }
